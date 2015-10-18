@@ -1,0 +1,159 @@
+-1
+How do you say "money" in French?
+fleche
+argent
+maigre
+poing
+b
+
+-1
+How do you say "bill" in French?
+billet
+voyelle
+grenat
+duree
+a
+
+-1
+How do you say "cash" in French?
+irreel
+mouchoir
+especes
+regate
+c
+
+-1
+How do you say "change" in French?
+monnaie
+truite
+maladie
+ecluse
+a
+
+-1
+How do you say "check" in French?
+contrer
+convoi
+douves
+cheque
+d
+
+-1
+How do you say "ATM card" in French?
+meuf
+rang
+carte bancaire
+tonton
+c
+
+-1
+How do you say "credit card" in French?
+billet
+carte de credit
+carte bancaire
+argent
+b
+
+-1
+How do you say "bank" in French?
+cheque
+monnaie
+carte bancaire
+banque
+d
+
+-1
+How do you say "deposit" in French?
+depot
+argent
+carnet
+especes
+a
+
+-1
+How do you say "balance" in French?
+argent
+monnaie
+billan
+frais
+c
+
+-1
+How do you say "fees" in French?
+frais
+taux
+recu
+billan
+a
+
+-1
+How do you say "loan" in French?
+releve
+frais
+depot
+emprunt
+d
+
+-1
+How do you say "receipt" in French?
+emprunt
+recu
+carte bancaire
+monnaie
+b
+
+-1
+How do you say "sum" in French?
+taux
+frais
+montant
+virement
+c
+
+-1
+How do you say "yield" in French?
+banque
+guichet
+rendement
+retrait
+c
+
+-1
+How do you say "widthdrawal" in French?
+billet
+emprunt
+bancaire
+retrait
+d
+
+-1
+How do you say "interest rate" in French?
+taux d'interet
+taux de change
+releve de compte
+bureau de change
+a
+
+-1
+How do you say "exchange rate" in French?
+taux d'interet
+taux de change
+releve de compte
+bureau de change
+b
+
+-1
+How do you say "bank statement" in French?
+montant
+bureau de change
+carte bancaire
+releve de compte
+d
+
+-1
+How do you say "account" in French?
+billet
+carte de credit
+compte
+argent
+c
